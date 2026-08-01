@@ -1,0 +1,30 @@
+forumaker-profile-cover:
+  admin:
+    sections:
+      thumbnails: Миниатюры
+      general: Основное
+    thumbnails: Создавать миниатюры
+    thumbnails_help: Создаёт уменьшенную версию обложки для компактных отображений – карточек пользователей и директории. Если выключено, используются полные версии обложек
+    thumbnail_width: Максимальная ширина миниатюры в пикселях
+    thumbnail_width_help: Обложка масштабируется пропорционально до указанной ширины. По умолчанию — 500
+    recreate_thumbnails: Пересоздать миниатюры
+    delete_thumbnails: Удалить миниатюры
+    recreate_thumbnails_confirm: Пересоздать все миниатюры?
+    delete_thumbnails_confirm: Удалить все миниатюры
+    recreate_success: Миниатюры пересозданы
+    delete_success: Миниатюры удалены
+    recreate_error: Не удалось пересоздать миниатюры
+    delete_error: Не удалось удалить миниатюры
+    max_size: Максимальный размер обложки в килобайтах
+    permission:
+      set_cover: Устанавливать обложку профиля
+  forum:
+    cover: Обложка
+    edit_cover: Изменение обложки
+    notice: "Максимальный размер: {size}"
+    added:
+      success: Обложка профиля обновлена
+      error: Не удалось загрузить изображение
+    removed:
+      success: Обложка профиля удалена
+      error: Не удалось удалить обложку, попробуйте ещё раз

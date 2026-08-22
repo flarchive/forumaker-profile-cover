@@ -1,0 +1,40 @@
+.UserHero, .CoverEditor-cover, body.dark .UserPage .Hero, .UserCard {
+  background-image: var(--background-image);
+  background-position: var(--background-position, center);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.Cover-modal .Alert {
+  --alert-bg: var(--control-bg);
+  --alert-color: var(--text-color);
+}
+
+.CoverEditor-positionLabel {
+  display: block;
+  text-align: center;
+}
+
+.CoverEditor-positionSlider {
+  width: 100%;
+  margin: 10px 0;
+  accent-color: var(--primary-color);
+  touch-action: none;
+}
+
+.CoverEditor-active {
+  height: 108px;
+}
+
+.CoverEditor-active .LoadingIndicator-container {
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.87);
+}
+
+.CoverEditor-savePosition {
+  background: var(--control-bg-light);
+
+  &:hover {
+    background: var(--control-bg-shaded);
+  }
+}

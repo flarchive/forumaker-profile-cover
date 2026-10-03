@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of forumaker/profile-cover.** Not for installation: use [Packagist](https://packagist.org/packages/forumaker/profile-cover) or the [upstream repository](https://github.com/forumaker/Profile-Cover).
 
-**0** versions archived · Latest: [`2.8.0`](https://github.com/flarchive/forumaker-profile-cover/tree/archive/v2.8.0) · License: `MIT` · Flarum: `^2.0`
+**12** versions archived · Latest: [`2.8.0`](https://github.com/flarchive/forumaker-profile-cover/tree/archive/v2.8.0) · License: `MIT` · Flarum: `^2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `2.0.0` | 2026-04-23 | `^2.0` | [Browse](https://github.com/flarchive/forumaker-profile-cover/tree/archive/v2.0.0) |
+| `2.1.0` | 2026-05-02 | `^2.0` | [Browse](https://github.com/flarchive/forumaker-profile-cover/tree/archive/v2.1.0) |
+| `2.2.0` | 2026-05-29 | `^2.0` | [Browse](https://github.com/flarchive/forumaker-profile-cover/tree/archive/v2.2.0) |
+| `2.2.2` | 2026-05-29 | `^2.0` | [Browse](https://github.com/flarchive/forumaker-profile-cover/tree/archive/v2.2.2) |
+| `2.3.0` | 2026-06-01 | `^2.0` | [Browse](https://github.com/flarchive/forumaker-profile-cover/tree/archive/v2.3.0) |
+| `2.4.0` | 2026-06-02 | `^2.0` | [Browse](https://github.com/flarchive/forumaker-profile-cover/tree/archive/v2.4.0) |
+| `2.4.4` | 2026-07-04 | `^2.0` | [Browse](https://github.com/flarchive/forumaker-profile-cover/tree/archive/v2.4.4) |
+| `2.4.5` | 2026-08-01 | `^2.0` | [Browse](https://github.com/flarchive/forumaker-profile-cover/tree/archive/v2.4.5) |
+| `2.5.0` | 2026-08-22 | `^2.0` | [Browse](https://github.com/flarchive/forumaker-profile-cover/tree/archive/v2.5.0) |
+| `2.6.0` | 2026-08-22 | `^2.0` | [Browse](https://github.com/flarchive/forumaker-profile-cover/tree/archive/v2.6.0) |
+
+[View all 12 versions](https://github.com/flarchive/forumaker-profile-cover/tags)
 
 Catalog entry: [packages/forumaker-profile-cover.json](https://github.com/flarchive/archive-index/blob/main/packages/forumaker-profile-cover.json)
 

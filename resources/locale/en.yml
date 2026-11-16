@@ -1,0 +1,43 @@
+forumaker-profile-cover:
+  admin:
+    sections:
+      thumbnails: Thumbnails
+      general: General
+    thumbnails: Create thumbnails
+    thumbnails_help: Creates a scaled-down version of the cover used in compact views like user cards and directory listings. When disabled, full-size covers are used instead
+    thumbnail_width: Maximum thumbnail width (px)
+    thumbnail_width_help: The cover is scaled proportionally so its width equals this value. Default is 500
+    recreate_thumbnails: Recreate thumbnails
+    delete_thumbnails: Delete thumbnails
+    recreate_thumbnails_confirm: Recreate all thumbnails?
+    delete_thumbnails_confirm: Delete all thumbnails?
+    recreate_success: Thumbnails recreated successfully
+    delete_success: All thumbnails deleted
+    recreate_error: Failed to recreate thumbnails
+    delete_error: Failed to delete thumbnails
+    max_size: Maximum profile cover image size (KB)
+    permission:
+      set_cover: Set profile cover
+  forum:
+    cover: Cover
+    edit_cover: Edit cover
+    notice: "Maximum size: {size}. Recommended: 21:9, at least 1600×400 pixels"
+    crop_instructions: "Drag a corner to resize the frame"
+    crop_area: Crop area
+    crop_resize_nw: "Resize the frame from the top-left corner"
+    crop_resize_ne: "Resize the frame from the top-right corner"
+    crop_resize_sw: "Resize the frame from the bottom-left corner"
+    crop_resize_se: "Resize the frame from the bottom-right corner"
+    choose_image: Choose image
+    choose_another: Choose another image
+    crop_existing: Crop
+    save_cover: Save cover
+    cancel_crop: Cancel
+    crop_error: The image could not be opened
+    file_too_large: "The file is too large. Maximum size: {size}"
+    added:
+      success: Profile cover updated
+      error: The image could not be uploaded
+    removed:
+      success: Profile cover removed
+      error: The cover could not be removed, try again
